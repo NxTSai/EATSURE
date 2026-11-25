@@ -1,2 +1,2 @@
 # EATSURE
-Food delivery website
+Food delivery website for people
